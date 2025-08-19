@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cennik on Judo Sharks – Klub Judo dla dzieci i młodzieży</title>
+    <link>http://localhost:1313/cennik/</link>
+    <description>Recent content in Cennik on Judo Sharks – Klub Judo dla dzieci i młodzieży</description>
+    <generator>Hugo</generator>
+    <language>pl</language>
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="http://localhost:1313/cennik/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

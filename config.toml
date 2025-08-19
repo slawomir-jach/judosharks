@@ -30,7 +30,7 @@ enableRobotsTXT = true
 [menu]
   [[menu.main]]
     identifier = "o-klubie"
-    name = "O klubie"
+    name = "O Judo"
     url  = "/o-klubie/"
     weight = 10
 
@@ -69,6 +69,12 @@ enableRobotsTXT = true
     name = "Kontakt"
     url  = "/kontakt/"
     weight = 60
+
+  [[menu.main]]
+    identifier = "cennik" # Unikalny identyfikator
+    name = "Cennik"      # Nazwa wyświetlana w menu
+    url  = "/cennik/"    # Ścieżka do strony (musisz stworzyć tę stronę!)
+    weight = 70          # Waga, aby była na końcu
 
 [outputs]
   home = ["HTML", "RSS"]
