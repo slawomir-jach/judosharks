@@ -1,0 +1,6 @@
+{{- $href := .Get "href" | default "#" -}}
+{{- $target := .Get "target" -}}
+<a href="{{ $href }}"{{ with $target }} target="{{ . }}" rel="noopener"{{ end }}
+   class="link br2 ph4 pv3 mb2 dib white bg-dark-blue hover-bg-blue">
+  {{ .Inner }}
+</a>

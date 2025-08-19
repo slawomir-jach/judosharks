@@ -1,0 +1,74 @@
+
+baseURL = "https://judosharks.example/"
+title = "Judo Sharks – Klub Judo dla dzieci i młodzieży"
+languageCode = "pl"
+defaultContentLanguage = "pl"
+theme = ["github.com/theNewDynamic/gohugo-theme-ananke/v2"]
+# theme = "ananke"
+enableRobotsTXT = true
+
+
+ [module]
+  replacements = "github.com/theNewDynamic/gohugo-theme-ananke/v2 -> ./_vendor/github.com/theNewDynamic/gohugo-theme-ananke/v2"
+  [[module.imports]]
+    path = "github.com/theNewDynamic/gohugo-theme-ananke/v2"
+
+
+[params]
+  site_logo = "/images/judo-sharks.png"
+  author = "Judo Sharks"
+  description = "Zajęcia judo dla dzieci i młodzieży – treningi, zawody, obozy."
+  featured_image_class = "cover bg-center"
+  background_color_class = "bg-near-black"
+  recent_posts_number = 6
+  favicon = "/images/favicon.png"
+
+  # Social
+  facebook = "https://facebook.com/judosharks"
+  instagram = "https://instagram.com/judosharks"
+
+[menu]
+  [[menu.main]]
+    identifier = "o-klubie"
+    name = "O klubie"
+    url  = "/o-klubie/"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "trenerzy"
+    name = "Trenerzy"
+    url  = "/trenerzy/"
+    weight = 20
+
+  [[menu.main]]
+    identifier = "grupy"
+    name = "Grupy wiekowe"
+    url  = "/grupy/"
+    weight = 30
+
+  [[menu.main]]
+    identifier = "grafik"
+    name = "Grafik"
+    url  = "/grafik/"
+    weight = 40
+
+  [[menu.main]]
+    identifier = "aktualnosci"
+    name = "Aktualności"
+    url  = "/aktualnosci/"
+    weight = 50
+
+  [[menu.main]]
+    identifier = "galeria"
+    name = "Galeria"
+    url  = "/galeria/"
+    weight = 55
+
+  [[menu.main]]
+    identifier = "kontakt"
+    name = "Kontakt"
+    url  = "/kontakt/"
+    weight = 60
+
+[outputs]
+  home = ["HTML", "RSS"]
