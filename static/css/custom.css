@@ -26,3 +26,8 @@ h1.f3.near-black { /* Używam tagu i klas dla specyficzności */
 body {
     font-family: 'Open Sans', sans-serif;
 }
+
+/* Zapewnienie wyraźnego białego koloru tekstu w przyciskach */
+.link.bg-dark-blue.hover-bg-blue {
+    color: #FFFFFF !important; /* Czysty biały, z !important dla pewności */
+}
