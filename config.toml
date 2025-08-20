@@ -1,5 +1,5 @@
 
-baseURL = "https://judosharks.example/"
+baseURL = "https://judosharks.pl/"
 title = "Judo Sharks – Klub Judo dla dzieci i młodzieży"
 languageCode = "pl"
 defaultContentLanguage = "pl"
@@ -28,40 +28,35 @@ enableRobotsTXT = true
   instagram = "https://instagram.com/judosharks"
 
 [menu]
+
   [[menu.main]]
-    identifier = "o-klubie"
-    name = "O Judo"
-    url  = "/o-klubie/"
+    identifier = "grafik"
+    name = "Rekrutacja i Grafik"
+    url  = "/grafik/"
     weight = 10
 
   [[menu.main]]
     identifier = "trenerzy"
-    name = "Trenerzy"
+    name = "Trener"
     url  = "/trenerzy/"
     weight = 20
 
   [[menu.main]]
-    identifier = "grupy"
-    name = "Grupy wiekowe"
-    url  = "/grupy/"
+    identifier = "dlaczegoJudo"
+    name = "Dlaczego Judo"
+    url  = "/dlaczegoJudo/"
     weight = 30
-
-  [[menu.main]]
-    identifier = "grafik"
-    name = "Grafik"
-    url  = "/grafik/"
-    weight = 40
 
   [[menu.main]]
     identifier = "aktualnosci"
     name = "Aktualności"
     url  = "/aktualnosci/"
-    weight = 50
+    weight = 40
 
   [[menu.main]]
-    identifier = "galeria"
-    name = "Galeria"
-    url  = "/galeria/"
+    identifier = "do-pobrania"
+    name = "Dokumenty do pobrania"
+    url  = "/do-pobrania/"
     weight = 55
 
   [[menu.main]]
@@ -70,11 +65,6 @@ enableRobotsTXT = true
     url  = "/kontakt/"
     weight = 60
 
-  [[menu.main]]
-    identifier = "cennik" # Unikalny identyfikator
-    name = "Cennik"      # Nazwa wyświetlana w menu
-    url  = "/cennik/"    # Ścieżka do strony (musisz stworzyć tę stronę!)
-    weight = 70          # Waga, aby była na końcu
 
 [outputs]
   home = ["HTML", "RSS"]

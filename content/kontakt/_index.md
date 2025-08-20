@@ -3,8 +3,10 @@
 title: "Kontakt"
 ---
 
-**E-mail:** kontakt@judosharks.pl  
-**Telefon:** +48 600 000 000  
-**Adres:** Hala Sportowa, ul. Przykładowa 1
+**E-mail:** info@judosharks.pl  
+**Telefon:** +48 697 266 798
+**Adres:** Przedmoście 76 , 55-300 Środa Śląska
+**Trningi:** Hala Sportowa, Szkoła podstawowa nr3.  w Środzie Śląskiej ul.Górna 1 
 
-Formularz kontaktowy możesz dodać przez usługę Formspree — wystarczy krótki HTML na tej stronie.
+
+{{< button href="https://forms.gle/uhAWzFJRfxoX4Erh7" >}}Zapisy - Rekrutacja tutaj{{< /button >}}

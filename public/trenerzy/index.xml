@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Trenerzy on Judo Sharks – Klub Judo dla dzieci i młodzieży</title>
+    <title>Trener on Judo Sharks – Klub Judo dla dzieci i młodzieży</title>
     <link>http://localhost:1313/trenerzy/</link>
-    <description>Recent content in Trenerzy on Judo Sharks – Klub Judo dla dzieci i młodzieży</description>
+    <description>Recent content in Trener on Judo Sharks – Klub Judo dla dzieci i młodzieży</description>
     <generator>Hugo</generator>
     <language>pl</language>
     <atom:link href="http://localhost:1313/trenerzy/index.xml" rel="self" type="application/rss+xml" />

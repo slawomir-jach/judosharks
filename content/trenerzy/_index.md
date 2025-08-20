@@ -1,10 +1,12 @@
 
 ---
-title: "Trenerzy"
+title: "Trener"
+featured_image: "/images/trener_dzieci.png"
 ---
 
-### Zespół trenerski
+### Trener
 
-- **Jan Kowalski** – Trener główny, 3 dan, 10+ lat doświadczenia
-- **Anna Nowak** – Trenerka młodszych grup, 1 dan
-- **Piotr Wiśniewski** – Asystent trenera, instruktor ogólnorozwojowy
+- **Sławomir Jach** – Trener III Klasy Polskiego Związku Judo,  1 dan
+- **Główne osiągnięcia** – Dukrotny mistrz Polski Judo Masters w wadze ciężkiej (+ 100), zdobywca pucharu Polski, wicemistrz Masters Republiki Czeskiej
+
+- **Maya Jach** - Asystent trenera , wicemistrzyni dolnego śląska dzieci i młodzieży
