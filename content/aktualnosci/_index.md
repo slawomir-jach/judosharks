@@ -1,7 +1,7 @@
 
 ---
 title: "Aktualności"
-featured_image: "/images/dzieci_trener4.png"
+featured_image: "/images/dzieci_trener3.png"
 ---
 
 Startujemy !  Środa Śląska , Malczyce szkółka Judo dla dzieci
