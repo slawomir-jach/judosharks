@@ -54,6 +54,12 @@ enableRobotsTXT = true
     weight = 40
 
   [[menu.main]]
+    identifier = "Sklep"
+    name = "Sklep"
+    url  = "https://imssport.pl/pl/c/JUDO-SHARKS/81"
+    weight = 50
+
+  [[menu.main]]
     identifier = "do-pobrania"
     name = "Dokumenty do pobrania"
     url  = "/do-pobrania/"

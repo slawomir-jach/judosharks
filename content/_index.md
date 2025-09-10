@@ -6,10 +6,10 @@ featured_image_class: "cover bg-center" # Dodana linia
 draft: false
 ---
 
-**Witamy w Judo Sharks!** 
+**Witamy w Judo Sharks Środa Śląska!** 
 Prowadzimy zajęcia judo dla dzieci i młodzieży w przyjaznej atmosferze, z naciskiem na **bezpieczeństwo**, **rozwój** i **zabawę**.
 
-- Treningi dla grup wiekowych: 5–7, 8–11, 12–15, 16+
+- Treningi dla różnych grup wiekowych
 - Certyfikowani trenerzy i asystenci
 - Udział w turniejach i obozach sportowych
 
