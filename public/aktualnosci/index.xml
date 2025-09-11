@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Aktualności on Judo Sharks – Klub Judo dla dzieci i młodzieży</title>
-    <link>http://localhost:1313/aktualnosci/</link>
+    <link>https://www.judosharks.pl/aktualnosci/</link>
     <description>Recent content in Aktualności on Judo Sharks – Klub Judo dla dzieci i młodzieży</description>
     <generator>Hugo</generator>
     <language>pl</language>
-    <atom:link href="http://localhost:1313/aktualnosci/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.judosharks.pl/aktualnosci/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Pierwszy trening próbny – zapisy otwarte</title>
-      <link>http://localhost:1313/aktualnosci/pierwszy-trening-probny/</link>
+      <link>https://www.judosharks.pl/aktualnosci/pierwszy-trening-probny/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/aktualnosci/pierwszy-trening-probny/</guid>
+      <guid>https://www.judosharks.pl/aktualnosci/pierwszy-trening-probny/</guid>
       <description>&lt;p&gt;Zapraszamy &lt;strong&gt;nowe osoby&lt;/strong&gt; na bezpłatny trening próbny. Wymagane: strój sportowy, woda, dobre nastawienie. Zgłoszenia przez formularz&lt;/p&gt;&#xA;&lt;a href=&#34;https://forms.gle/uhAWzFJRfxoX4Erh7&#34;&#xA;   class=&#34;link br2 ph4 pv3 mb2 dib white bg-dark-blue hover-bg-blue&#34;&gt;&#xA;  Zapisy - Rekrutacja tutaj&#xA;&lt;/a&gt;</description>
     </item>
   </channel>

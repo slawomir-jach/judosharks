@@ -2,33 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/grafik/</loc>
+    <loc>https://www.judosharks.pl/grafik/</loc>
     <lastmod>2025-08-27T10:00:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://www.judosharks.pl/</loc>
     <lastmod>2025-08-27T10:00:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sklep/</loc>
+    <loc>https://www.judosharks.pl/sklep/</loc>
     <lastmod>2025-08-19T10:00:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/aktualnosci/</loc>
+    <loc>https://www.judosharks.pl/aktualnosci/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://www.judosharks.pl/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/dlaczegojudo/</loc>
+    <loc>https://www.judosharks.pl/dlaczegojudo/</loc>
   </url><url>
-    <loc>http://localhost:1313/do-pobrania/</loc>
+    <loc>https://www.judosharks.pl/do-pobrania/</loc>
   </url><url>
-    <loc>http://localhost:1313/grupy/</loc>
+    <loc>https://www.judosharks.pl/grupy/</loc>
   </url><url>
-    <loc>http://localhost:1313/kontakt/</loc>
+    <loc>https://www.judosharks.pl/kontakt/</loc>
   </url><url>
-    <loc>http://localhost:1313/o-judo/</loc>
+    <loc>https://www.judosharks.pl/o-judo/</loc>
   </url><url>
-    <loc>http://localhost:1313/aktualnosci/pierwszy-trening-probny/</loc>
+    <loc>https://www.judosharks.pl/aktualnosci/pierwszy-trening-probny/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://www.judosharks.pl/tags/</loc>
   </url><url>
-    <loc>http://localhost:1313/trenerzy/</loc>
+    <loc>https://www.judosharks.pl/trenerzy/</loc>
   </url>
 </urlset>
