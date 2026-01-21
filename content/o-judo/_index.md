@@ -22,5 +22,7 @@ Judo to sport, który sprawia dzieciom wiele radości i satysfakcji, a także uc
 Filozofia judo:
 Judo, nazywane "delikatną drogą", kładzie nacisk na efektywne wykorzystanie siły przeciwnika, ucząc dzieci, jak minimalizować agresję i rozwiązywać konflikty w sposób kontrolowany. W judo istnieje również silny nacisk na rozwój osobisty i duchowy, ucząc szacunku do innych i współdziałania. 
 
+zobacz ten krótki film https://www.youtube.com/watch?v=Mscm2EPe9JI
+
 
 ![Trening](/images/galeria-1.jpg)

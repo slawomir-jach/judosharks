@@ -22,7 +22,7 @@ Zapraszamy na treningi w Środzie Śląskiej, które odbywają się w komfortowe
 | Środa        | Młodsza (5-8 lat)    | 15:00 – 16:00 |
 | Środa        | Starsza (9-13 lat)   | 16:00 – 17:00 |
 
- **Lokalizacja:** Hala Sportowa, Szkoła Podstawowa nr 3 w Środzie Śląskiej, ul. Górna 1, kod 55-300
+**Lokalizacja:** Hala Sportowa, Szkoła Podstawowa nr 3 w Środzie Śląskiej, ul. Górna 1, kod 55-300
 
 ---
 
@@ -36,7 +36,7 @@ Zapraszamy na treningi w Szczepanowie, które odbywają się w  Hali Sportowej S
 | Czwartek     | Młodsza (5-8 lat)    | 15:00 – 16:00 |
 | Czwartek     | Starsza (9-13 lat)   | 16:00 – 17:00 |
 
- **Lokalizacja:** Hala Sportowa, Szkoła Podstawowa im. Jana Brzechwy
+**Lokalizacja:** Hala Sportowa, Szkoła Podstawowa im. Jana Brzechwy
 Szczepanów, ul. Średzka 14, kod 55-300
 
 {{< button href="https://forms.gle/uhAWzFJRfxoX4Erh7" >}}Zapisy - Rekrutacja tutaj{{< /button >}}
